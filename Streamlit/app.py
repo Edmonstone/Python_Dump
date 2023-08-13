@@ -45,7 +45,7 @@ def apply_theme(theme):
 
 def main():
     # Streamlit UI
-    st.title("Third Eye - AI Chatbot")
+    st.title("Edmonstone - AI Chatbot")
 
     # Set page layout
     st.sidebar.image("ck.jpg", use_column_width=True)
